@@ -1,4 +1,4 @@
-"""Developed by Alan Oliveira - 2017
+"""Developed by Alan Oliveira & Victor Gualberto - 2017
 
 This package contains serialization, birthing and batch association
 functions to serial numbers in MES.
