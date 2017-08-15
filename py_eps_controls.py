@@ -1,4 +1,4 @@
-"""Developed by Alan Oliveira - 2017
+"""Developed by Alan Oliveira & Victor Gualberto - 2017
 This module instanciates the EPS Controls Web Service functions.
 
 Each function is documentated below.
